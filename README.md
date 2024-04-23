@@ -49,8 +49,8 @@ This project is a resume matching tool that utilizes the Gemini API for text ana
 
 Here's a brief example of how to use the tool:
 
-1. Upload a job description file (e.g., `job_description.txt`).
-2. Upload a resume file (e.g., `resume.pdf`).
+1. Upload a job description file.
+2. Upload a resume file.
 3. Click "Calculate Match".
 4. The tool will display the percentage match between the job description and the resume.
 
