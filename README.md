@@ -16,7 +16,7 @@ This project is a resume matching tool that utilizes the Gemini API for text ana
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your_username/ats-resume.git
+   git clone https://github.com/ISmokeData/ats-resume.git
    ```
 
 2. Navigate into the project directory:
